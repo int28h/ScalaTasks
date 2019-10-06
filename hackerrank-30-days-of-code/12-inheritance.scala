@@ -33,7 +33,7 @@ class Student(override val firstName: String, override val lastName: String, val
 
   def calculate: Char = {
     var result = 0
-    for (i<- 0 to testScores.length - 1){
+    for (i <- 0 to testScores.length - 1){
       result += testScores(i)
     }
     result /= testScores.length

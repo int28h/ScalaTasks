@@ -10,7 +10,7 @@ object Solution {
   def factorial(n: Int): Int = {
     var result = 1
     var i = 0
-    for(i<-1 to n){
+    for(i <- 1 to n){
       result *= i
     }
 

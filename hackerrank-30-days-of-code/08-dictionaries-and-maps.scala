@@ -14,7 +14,7 @@ object Solution {
     var phoneBook:Map[String, String] = Map()
 
     var i = 0
-    for(i<-1 to n){
+    for(i <- 1 to n){
       val arr = stdin.readLine().split(" ").map(_.trim)
       val name = arr(0)
       val phone = arr(1)

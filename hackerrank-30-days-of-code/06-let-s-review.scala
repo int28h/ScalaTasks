@@ -22,11 +22,11 @@ object Solution {
       val s = stdin.readLine
 
       var j = 0
-      for (j<-1 to s.length()) {
+      for (j <- 1 to s.length()) {
         if(j % 2 == 0){
-          even += s.charAt(j-1);
+          even += s.charAt(j - 1);
         } else {
-          odd += s.charAt(j-1);
+          odd += s.charAt(j - 1);
         }
       }
       println(odd + " " + even)

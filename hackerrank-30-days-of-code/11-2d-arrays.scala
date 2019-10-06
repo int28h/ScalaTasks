@@ -49,8 +49,8 @@ object Solution {
 
     var max = Integer.MIN_VALUE
     var temp = 0
-    for(i <- 0 to 6-3) {
-      for(j <- 0 to 6-3) {
+    for(i <- 0 to 6 - 3) {
+      for(j <- 0 to 6 - 3) {
         temp = arr(i)(j) + arr(i)(j+1) + arr(i)(j+2) + arr(i+1)(j+1) + arr(i+2)(j) + arr(i+2)(j+1) + arr(i+2)(j+2)
         if(temp > max) max = temp
       }

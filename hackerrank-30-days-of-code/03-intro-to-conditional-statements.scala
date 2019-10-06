@@ -18,7 +18,7 @@ import java.util.regex._
 import java.util.stream._
 
 object Solution {
-    def checks( n:Int ): String = {
+    def checks(n: Int): String = {
         if (n % 2 == 1 || (n >= 6 && n <= 20 && n % 2 == 0)){
             return("Weird")
         }

@@ -20,7 +20,7 @@ object Solution {
 
         val n = stdin.readLine.trim.toInt
         var i = 0
-        for(i<-1 to 10){
+        for(i <- 1 to 10){
             println(n + " x " + i + " = " + n*i);
         }
     }
