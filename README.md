@@ -20,3 +20,9 @@
 [11](hackerrank-30-days-of-code/11-2d-arrays.scala) 2D arrays  
 [12](hackerrank-30-days-of-code/12-inheritance.scala) Inheritance  
 [13](hackerrank-30-days-of-code/13-abstract-classes.scala) Abstract classes  
+[14](hackerrank-30-days-of-code/14-scope.scala) Scope  
+[15](hackerrank-30-days-of-code/15-linked-list.scala) Linked list  
+[16](hackerrank-30-days-of-code/16-exceptions-string-to-integer.scala) Exceptions: String to Integer  
+[17](hackerrank-30-days-of-code/17-more-exceptions.scala) More exceptions  
+[18](hackerrank-30-days-of-code/18-queues-and-stacks.scala) Queues and stacks  
+[19](hackerrank-30-days-of-code/19-interfaces.scala) Interfaces  
