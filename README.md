@@ -1,6 +1,5 @@
 ### [Введение в Scala](https://stepik.org/course/16243)  
 [01](stepik-introduction-to-scala/01-namespace.scala) Импорт имени с переименованием.  
-[02](stepik-introduction-to-scala/02-normal-distribution.scala) Плотность вероятности нормального распределения.  
   
   
   
@@ -25,4 +24,10 @@
 [16](hackerrank-30-days-of-code/16-exceptions-string-to-integer.scala) Exceptions: String to Integer  
 [17](hackerrank-30-days-of-code/17-more-exceptions.scala) More exceptions  
 [18](hackerrank-30-days-of-code/18-queues-and-stacks.scala) Queues and stacks  
-[19](hackerrank-30-days-of-code/19-interfaces.scala) Interfaces  
+[19](hackerrank-30-days-of-code/19-interfaces.scala) Interfaces    
+[20](hackerrank-30-days-of-code/20-sorting.scala) Sorting  
+[21](hackerrank-30-days-of-code/21-generics.scala) Generics  
+[22](hackerrank-30-days-of-code/22-binary-search-trees.scala) Binary search trees  
+[23](hackerrank-30-days-of-code/23-bst-level-order-traversal.scala) BST Level-Order Traversal  
+[24](hackerrank-30-days-of-code/24-more-linked-lists.scala) More linked lists  
+[25](hackerrank-30-days-of-code/25-running-time-and-complexity.scala) Running time and complexity  
