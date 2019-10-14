@@ -1,5 +1,12 @@
 ### [Введение в Scala](https://stepik.org/course/16243)  
-[01](stepik-introduction-to-scala/01-namespace.scala) Импорт имени с переименованием.  
+[01](stepik-introduction-to-scala/01-namespace.scala) Импорт имени с переименованием  
+[02](stepik-introduction-to-scala/02-normal-distribution.scala) Плотность вероятности нормального распределения  
+[03](stepik-introduction-to-scala/03-potato-paradox.scala) Парадокс картофеля  
+[04](stepik-introduction-to-scala/04-circular-shift.scala) Число единиц в битовой записи числа  
+[05](stepik-introduction-to-scala/05-string-pool.md) Сравнение строк  
+[06](stepik-introduction-to-scala/06-is-capital.scala) Проверка на upper-case  
+[07](stepik-introduction-to-scala/07-operations-with-strings.scala) Операции со строками  
+[08](stepik-introduction-to-scala/08-fibonacci.scala) Числа Фибоначчи  
   
   
   
@@ -31,3 +38,8 @@
 [23](hackerrank-30-days-of-code/23-bst-level-order-traversal.scala) BST Level-Order Traversal  
 [24](hackerrank-30-days-of-code/24-more-linked-lists.scala) More linked lists  
 [25](hackerrank-30-days-of-code/25-running-time-and-complexity.scala) Running time and complexity  
+[26](hackerrank-30-days-of-code/26-nested-logic.scala) Nested logic  
+[27](hackerrank-30-days-of-code/27-testing.scala) Testing  
+[28](hackerrank-30-days-of-code/28-regex-patterns-and-intro-to-databases.scala) RegEx patterns and intro to databases  
+[29](hackerrank-30-days-of-code/29-bitwise-and.scala) Bitwise AND  
+  
