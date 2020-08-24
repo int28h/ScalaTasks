@@ -12,7 +12,7 @@
  * def crispsWeight(weight: BigDecimal, potatoWaterRatio: Double, crispsWaterRatio: Double): BigDecimal
  *
  *
- *Ответ нужно дать с точностью до пяти знаков после запятой.
+ * Ответ нужно дать с точностью до пяти знаков после запятой.
  */
 
 import scala.math.BigDecimal.RoundingMode.HALF_UP
