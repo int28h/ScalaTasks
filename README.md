@@ -8,6 +8,7 @@
 [07](stepik-introduction-to-scala/07-operations-with-strings.scala) Операции со строками  
 [08](stepik-introduction-to-scala/08-fibonacci.scala) Числа Фибоначчи  
 [09](stepik-introduction-to-scala/09-functions.scala) Функция нахождения нечетных чисел  
+[10](stepik-introduction-to-scala/10-fibonacci-tail-recursion.scala) Числа Фибоначчи с использованием хвостовой рекурсии  
   
   
   
