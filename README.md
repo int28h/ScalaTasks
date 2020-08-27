@@ -9,6 +9,7 @@
 [08](stepik-introduction-to-scala/08-fibonacci.scala) Числа Фибоначчи  
 [09](stepik-introduction-to-scala/09-functions.scala) Функция нахождения нечетных чисел  
 [10](stepik-introduction-to-scala/10-fibonacci-tail-recursion.scala) Числа Фибоначчи с использованием хвостовой рекурсии  
+[11](stepik-introduction-to-scala/11-middle.scala) Обобщенный метод middle, возвращающий средний элемент из любого экземпляра Iterable[T]  
   
   
   
