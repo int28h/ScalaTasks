@@ -11,6 +11,7 @@
 [10](stepik-introduction-to-scala/10-fibonacci-tail-recursion.scala) Числа Фибоначчи с использованием хвостовой рекурсии  
 [11](stepik-introduction-to-scala/11-middle.scala) Обобщенный метод middle, возвращающий средний элемент из любого экземпляра Iterable[T]  
 [12](stepik-introduction-to-scala/12-coprime-numbers.scala) Пары взаимно простых чисел от 1 до n  
+[13](stepik-introduction-to-scala/13-pattern-matching.scala) Pattern matching  
   
   
   
